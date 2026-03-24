@@ -18,7 +18,7 @@ window.addEventListener("scroll", () => {
   });
 });
 
-const text = "Full Stack Developer";
+const text = "Hi, I'm Mandy Nguyen - Full Stack Developer";
 let index = 0;
 function typeWriter() {
   if (index < text.length) {
